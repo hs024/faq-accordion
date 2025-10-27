@@ -25,7 +25,7 @@ To run this project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/hs024/faq-accordion
    ```
 
 2. **Navigate to the project folder:**
@@ -63,6 +63,7 @@ Refer to the design previews inside the `/design` folder (mobile and desktop). T
 ## Deployment
 
 Project hosted via GitHub Pages:
+https://hs024.github.io/faq-accordion/
 
 ## Acknowledgments
 
